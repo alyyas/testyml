@@ -478,3 +478,4 @@ features:
 name: objective-c
 schema: 1
 scm: github.com/pubnub/objective-c
+version: v4.0.0
